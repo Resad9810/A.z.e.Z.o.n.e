@@ -6,7 +6,7 @@
 // @author       Emir Kaya
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
-// @homepage     https://github.com/EmirKayaZ/T.r.Z.o.n.e/
+// @homepage     https://github.com/Resad9810/A.z.e.Z.o.n.e/
 // @updateURL    https://raw.githubusercontent.com/Resad9810/A.z.e.Z.o.n.e/blob/master/minimap.user.js
 // @downloadURL  https://raw.githubusercontent.com/Resad9810/A.z.e.Z.o.n.e/blob/master/minimap.user.js
 // @grant        none
