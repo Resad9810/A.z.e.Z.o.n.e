@@ -69,12 +69,12 @@
     "width": 273,
     "height": 155
    },
-  "TrZoneMerkez": {
-    "name": "TrZoneMerkez.png",
-    "x": 812,
-    "y": -505,
-    "width": 377,
-    "height": 279
+  "ss": {
+    "name": "ss.png",
+    "x": -2281,
+    "y": 3136,
+    "width": 80,
+    "height": 82
   },
   "AZE2": {
     "name": "AZE2.png",
